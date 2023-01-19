@@ -1,0 +1,20 @@
+xsi:schemalocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<modelversion>4.0.0</modelversion>
+<group ID>com.example.app</groupId>
+<artifact Id>SimpletomcatwebApp</artifactId>
+<packaging>war</packaging>
+<version>1.0-SNAPSHOT</version>
+<name>SimpleTomcatwebapp Maven Webapp</name>
+<url>ttp://maven.apache.org</url>
+<dependencies>
+<dependency>
+<groupId>junit</groupiD>
+<artifactId>junit</artifactId>
+<version>3.8.1</version>
+<scope>test</scope>
+</dependency>
+</dependecies>
+<build>
+<final name>SimpleTomcatwebApp</finalname>
+</build>
+</project>
